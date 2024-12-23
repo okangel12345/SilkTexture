@@ -1,0 +1,2 @@
+C:\Users\4Fantastics\Documents\.LunaToolboxMain\LunaSilkTexture\SpideyTextureScaler\bin\Release\net6.0-windows\publish\win-x64\SilkTex.pdb
+C:\Users\4Fantastics\Documents\.LunaToolboxMain\LunaSilkTexture\SpideyTextureScaler\bin\Release\net6.0-windows\publish\win-x64\SilkTex.exe
