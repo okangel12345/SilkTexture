@@ -41,9 +41,11 @@ namespace SpideyTextureScaler
                     (Height & (Height - 1)) != 0 ||
                     (Width & (Width - 1)) != 0)
                 {
-                    output += "Texture widths and heights must be a power of 2\r\n";
-                    errorcol = 2;
-                    return false;
+                    // Enable non-square textures
+
+                    //output += " and heights must be a power of 2\r\n";
+                    //errorcol = 2;
+                    //return false;
                 }
                 aspect = (int)(Math.Log((double)Width / (double)Height) / Math.Log(2));
 
